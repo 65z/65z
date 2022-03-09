@@ -1,16 +1,18 @@
-### Hi there 👋
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=o9guoq0d9a5peydmp7jdck9p0&cover_image=true&theme=novatorem&bar_color_cover=false&bar_color=00fbff)](https://github.com/kittinan/spotify-github-profile) 
+[![MasterHead](https://w.wallhaven.cc/full/57/wallhaven-57mx15.jpg)](https://github.com/90on)
 
-<!--
-**65z/65z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 Tecnologias Utilizadas:</h3>
+    
+<img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> |
+<img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> |
+<img align="center" alt="Vitor-Bulma" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/ad9cd7e959a88047c830c3a9cc4e9ffcf5e644f7/topics/bulma/bulma.png"> | 
+<img align="center" alt="Vitor-Bootstrap" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png">  |
+<img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Vitor-Php" height="25" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png"> | <img align="center" alt="Vitor-Lua" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/520px-Lua-Logo.svg.png">
+<img align="center" alt="Vitor-MySql" height="35" width="48" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png"> |
+<img align="center" alt="Vitor-MariaDB" height="35" width="48" src="https://www.mobileatom.net/wp-content/uploads/2020/06/mariadb-e1592314921352.png">
+<img align="center" alt="Vitor-WordPress" height="30" width="30" src="https://pngimg.com/uploads/wordpress/wordpress_PNG13.png">
+<br />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    
